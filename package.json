@@ -1,0 +1,11 @@
+{
+  "name": "mashmc-apps",
+  "version": "0.1.0",
+  "description": "Lists all installed apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": { "name": "Matita", "email": "matitald@gmail.com" },
+  "license": "ISC"
+}
