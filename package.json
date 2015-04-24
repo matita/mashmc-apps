@@ -1,11 +1,19 @@
 {
   "name": "mashmc-apps",
   "version": "0.1.0",
-  "description": "Lists all installed apps",
+  "description": "Lists all installed apps on mashmc",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": { "name": "Matita", "email": "matitald@gmail.com" },
-  "license": "ISC"
+  "author": "Matita <matitald@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matita/mashmc-apps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matita/mashmc-apps/issues"
+  },
+  "homepage": "https://github.com/matita/mashmc-apps"
 }
